@@ -1,1 +1,2 @@
-Hola
+Bienvenido a Git y GitHub
+Verificando los cambios
